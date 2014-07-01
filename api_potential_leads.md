@@ -32,6 +32,9 @@ Just got FDA a working design for suggestions on their recall API - http://kinla
 
 Sarah Anderson <sarah.anderson@nara.gov>
 
+## USAID 
+
+"sjarrett@usaid.gov" <sjarrett@usaid.gov>
 
 ## Smithsonian 
 
