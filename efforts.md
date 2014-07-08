@@ -13,3 +13,5 @@
  * Usability Testing 
  * API Standards 
  * Feedback Mechanism 
+ * contract language used 
+ * api-first model adopted
