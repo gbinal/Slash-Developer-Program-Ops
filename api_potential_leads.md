@@ -5,6 +5,7 @@
 
 ## Commerce 
 * Export.gov
+* NOAA - Ryan Schuster - NOAA Affiliate <ryan.schuster@noaa.gov>
 
 # HHS
 
