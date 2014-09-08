@@ -50,6 +50,9 @@ Sarah Anderson <sarah.anderson@nara.gov>
 ## Peace Corps
 Check out its repos, searching for API
 
+## SEC 
+"Schwartz, Jeffrey" <schwartzj@sec.gov>
+
 ## USAID 
 
 "sjarrett@usaid.gov" <sjarrett@usaid.gov>
